@@ -1,0 +1,14 @@
+PDF Generator v2
+================
+Martin Lind <martin@lindsystem.se>
+v1.0, July 2014: Initial revision
+
+Description
+-----------
+Version two of the pdf generator.
+First revision should only create invoices.
+
+Copyright
+---------
+
+2014 (C) Lind System

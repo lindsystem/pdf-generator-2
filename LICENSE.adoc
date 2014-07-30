@@ -1,0 +1,22 @@
+Lind System Closed Source License
+=================================
+Martin Lind <martin@lindsystem.se>
+v1, May 2014: Initial revision.
+
+Copyright Holder
+----------------
+
+Copyright (C) 2014 Lind System
+
+
+Terms and Conditions
+--------------------
+
+All rights reserved.
+
+The copy of the source code and associated documentation files (the
+"Source code") and/or any images or associated files (the "Resources") is
+considered to confidential and proprietary.
+
+Under no circumstances may any unauthorized copying or redistribution of the
+source code or resources be made, via any media or medium.
